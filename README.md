@@ -21,9 +21,13 @@ Raw URL can be embedded into HTML/Markdown as usual.
 
 + https://ielts.idp.com/vietnam/prepare/article-grammar-101-principle-vs-principal-learn-the-difference
 
-+ https://ducquoc.wordpress.com/2022/05/14/linh-passion-20-and-40/
++ https://ducquoc.wordpress.com/2022/07/03/heq-erosion-relationships/
 
 + https://vietcetera.com/vn/red-flag-la-gi-ma-sao-phai-ne
+
++ https://ducquoc.wordpress.com/2022/05/14/linh-passion-20-and-40/
+
++ https://spiderum.com/bai-dang/Everyone-can-be-a-Father-But-it-takes-a-lot-to-be-a-Daddy-qra
 
 + https://ducquoc.wordpress.com/2024/12/31/tam-quan-trong-cua-thuat-toan/
 
@@ -40,6 +44,4 @@ Star History
 
 Streak Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=ducquoc-gft&theme=cobalt)](https://git.io/streak-stats)
-
-[![GitHub Commits Streak](https://streak-stats.demolab.com/?user=ducquoc-gft&theme=java-dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=ducquoc-gft&theme=cobalt)](https://streak-stats.demolab.com/?user=ducquoc-gft&theme=java-dark)
