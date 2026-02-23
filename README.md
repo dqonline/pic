@@ -26,3 +26,22 @@ Raw URL can be embedded into HTML/Markdown as usual.
 + https://vietcetera.com/vn/red-flag-la-gi-ma-sao-phai-ne
 
 + https://ducquoc.wordpress.com/2024/12/31/tam-quan-trong-cua-thuat-toan/
+
+
+# Bonus
+
+Star History
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=star-history/star-history&type=Date&theme=dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=star-history/star-history&type=Date" />
+  <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=star-history/star-history&type=Date" />
+</picture>
+
+Streak Stats
+
+https://streak-stats.demolab.com/?user=ducquoc-gft&theme=radical
+
+https://streak-stats.demolab.com/?user=ducquoc-gft
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=ducquoc-gft)](https://git.io/streak-stats)
