@@ -33,15 +33,13 @@ Raw URL can be embedded into HTML/Markdown as usual.
 Star History
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=star-history/star-history&type=Date&theme=dark" />
-  <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=star-history/star-history&type=Date" />
-  <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=star-history/star-history&type=Date" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=dqonline/pic&type=Date&theme=dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=dqonline/pic&type=Date" />
+  <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=dqonline/pic&type=Date" />
 </picture>
 
 Streak Stats
 
-https://streak-stats.demolab.com/?user=ducquoc-gft&theme=radical
+[![GitHub Streak](https://streak-stats.demolab.com/?user=ducquoc-gft&theme=cobalt)](https://git.io/streak-stats)
 
-https://streak-stats.demolab.com/?user=ducquoc-gft
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=ducquoc-gft)](https://git.io/streak-stats)
+[![GitHub Commits Streak](https://streak-stats.demolab.com/?user=ducquoc-gft&theme=java-dark)](https://git.io/streak-stats)
